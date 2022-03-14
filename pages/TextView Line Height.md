@@ -4,7 +4,7 @@ title:: TextView Line Height
 - ## Text View Structure #card
 	- ![image.png](../assets/image_1647249506338_0.png){:height 292, :width 612}
 - ## Defination
-- Leading,
+- Leading, is the space between adjacent lines of type
 - ## OneLine TextView Case
 	- Text Height = Ascent - Descent
 	- Line height = Top - Bottom = Text Height + font padding
