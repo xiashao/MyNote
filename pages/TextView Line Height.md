@@ -9,7 +9,9 @@ title:: TextView Line Height
 	- TwoLine TextView Case
 		- Line Height = Text Height * 2 + font padding
 	- Two TextView
-		- Line Height =
+		- Line Height = Text Height *2 + 2 * font padding
+	- Two TextView with "includeFontPadding = false"
+		- Line Height = Text Height *2
 	-
 -
 - Reference:
