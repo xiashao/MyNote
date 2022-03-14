@@ -3,13 +3,13 @@ title:: TextView Line Height
 - [[Mar 14th, 2022]]
 - ## Text View Structure #card
 	- ![image.png](../assets/image_1647249506338_0.png){:height 292, :width 612}
-	- OneLine TextView Case
-		- Text Height = Ascent - Descent
-		- Line height = Top - Bottom = Text Height + font padding
-	- TwoLine TextView Case
-		- Line Height = Text Height * 2 + font padding
-	- Two TextView
-		- Line Height = Text Height *2 + 2 * font padding
+- OneLine TextView Case
+	- Text Height = Ascent - Descent
+	- Line height = Top - Bottom = Text Height + font padding
+- TwoLine TextView Case
+	- Line Height = Text Height * 2 + font padding
+- Two TextView
+	- Line Height = Text Height *2 + 2 * font padding
 	- Two TextView with "includeFontPadding = false"
 		- Line Height = Text Height *2
 	-
