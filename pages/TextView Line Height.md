@@ -8,7 +8,8 @@ title:: TextView Line Height
 		- Line height = Top - Bottom = Text Height + font padding
 	- TwoLine TextView Case
 		- Line Height = Text Height * 2 + font padding
-		-
+	- Two TextView
+		- Line Height =
 	-
 -
 - Reference:
