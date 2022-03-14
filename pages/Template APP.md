@@ -3,3 +3,5 @@
 		- action button should less than 4, including pan mode, recenter, zoom-in/ zoom out
 	- Parking support google
 	- Charging support google
+	- Template
+		-
