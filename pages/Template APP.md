@@ -4,4 +4,5 @@
 	- Parking support google
 	- Charging support google
 	- Template
-		-
+		- search
+		- place list
