@@ -5,9 +5,10 @@ title:: TextView Line Height
 	- ![image.png](../assets/image_1647249506338_0.png)
 	- OneLine TextView Case
 		- Text Height = Ascent - Descent
-		- Line height = Top - Bottom
+		- Line height = Top - Bottom = Text Height + font padding
 	- TwoLine TextView Case
-		- Line Height = Line
+		- Line Height = Text Height * 2 + font padding
+		-
 	-
 -
 - Reference:
