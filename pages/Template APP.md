@@ -1,5 +1,5 @@
 - Category
 	- Navigation
-		-
+		- action button should less than 4,
 	- Parking support google
 	- Charging support google
