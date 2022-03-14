@@ -1,7 +1,7 @@
 title:: TextView Line Height
 
 - [[Mar 14th, 2022]]
-- ## Text View Structure
+- ## Text View Structure #card
 	- ![image.png](../assets/image_1647249506338_0.png)
 	- OneLine TextView Case
 		- Text Height = Ascent - Descent
@@ -13,8 +13,6 @@ title:: TextView Line Height
 	- Two TextView with "includeFontPadding = false"
 		- Line Height = Text Height *2
 	-
--
 - Reference:
 	- [神奇的TextView](https://codeantenna.com/a/qTS5cygDkQ)
 	-
--
