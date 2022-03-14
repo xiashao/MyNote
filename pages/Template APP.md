@@ -7,4 +7,4 @@
 		- search
 		- place list
 - How work
-	-
+	- hostservice -> AIDL->app
