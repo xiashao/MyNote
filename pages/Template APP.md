@@ -9,4 +9,4 @@
 - How work
 	- host(renderservice) -> AIDL->app(surfaceview).  Harman also support.
 - How build
--
+	- CarAppService->Session->Screen->template
