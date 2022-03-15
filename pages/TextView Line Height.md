@@ -4,10 +4,10 @@ title:: TextView Line Height
 - ## Text View Structure #card
 	- ![image.png](../assets/image_1647249506338_0.png){:height 292, :width 612}
 - ## Defination
-- Leading, is the space between adjacent lines of type
+- Leading, is the space between adjacent lines of type, in most cases, the value is 0.
 - ## OneLine TextView Case
 	- Text Height = Ascent - Descent
-	- Line height = Top - Bottom = Text Height + font padding
+	- Line height = Top - Bottom = Text Height + font padding + leading
 - ## TwoLine TextView Case
 	- Line Height = Text Height * 2 + font padding
 - ## Two TextView
