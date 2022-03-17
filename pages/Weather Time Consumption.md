@@ -1,4 +1,4 @@
-- 不能够follow Transformer，也不能够follow MyDrive，但是要考虑到符合MyDrive的业务需求和Transformer 的技术结构。 13:54
+- 不能够follow Transformer，也不能够follow MyDrive，但是要考虑到符合MyDrive的业务需求和Transformer 的技术结构。 #[[Mar 17th, 2022]]
 	- 例子1，在初始化问题上，不能够像其他feature一样通过Nav去初始化。
 	- 例子2，在跳转问题上，不能够像其他feature可以由Nav去控制，但是在MyDrive这里还需要用Navigation去控制。
 -
