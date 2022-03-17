@@ -8,7 +8,7 @@ title:: TextView Line Height
   card-last-interval:: 4
   card-ease-factor:: 2.6
   card-last-reviewed:: 2022-03-17T05:07:29.253Z
-	- ![image.png](../assets/image_1647249506338_0.png){:height 292, :width 612} #Contents
+	- ![image.png](../assets/image_1647249506338_0.png){:height 250, :width 535} #Contents
 - ## Defination
 - Leading, is the space between adjacent lines of type, in most cases, the value is 0.
 - ## OneLine TextView Case
