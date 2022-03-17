@@ -1,4 +1,4 @@
-- 不能够
+- 不能够follow transformer，也不能够follow MyDrive，但是要考虑到符合MyDrive的业务需求和Transformer 的技术结构。
 -
 -
 -
