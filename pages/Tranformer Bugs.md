@@ -46,6 +46,46 @@
 			  x-tn-trace-id: ID-ec2s-autodenalinautilus-01-1647888187631-0-12340418)
 		- Body:
 			- ```
-			  
+			  {
+			    "status": {
+			      "code": "12200",
+			      "message": "SUCCESS"
+			    },
+			    "response_time": 507,
+			    "reference_id": "9a4ce17c-0a03-4999-a469-92c4e40f4b13",
+			    "metadata": {
+			      "counts": [
+			        {
+			          "type": "place",
+			          "count": 20
+			        }
+			      ],
+			      "query_resolution": {
+			        "query_tags": [
+			          {
+			            "what": "bob and betty"
+			          }
+			        ],
+			        "search_position": {
+			          "latitude": 42.29395,
+			          "longitude": -83.71771
+			        }
+			      },
+			      "version": "Q2xvdWQ7MC4wLjEtZmVhdHVyZS1mb3JkLWV2LWRlbW8tMTYwO05BOzIxUTM7MjAyMi0wMi0xMiAxNzowNzoyMw"
+			    },
+			    "has_more": true,
+			    "results": [
+			      {
+			        "id": "P-12062503",
+			        "type": "place",
+			        "place": {
+			          "name": "Al & Bob's Painting",
+			          "phone": [
+			            {
+			            	... ...
+			            }
+			            }
+			         }
+			   }
 			  ```
 		-
