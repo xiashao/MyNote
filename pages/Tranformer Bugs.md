@@ -4,7 +4,7 @@
 - Background: could not find results for Bob and Betty Beyster Building
 - Analysis for local build
 	- Action: search "bob and betty"
-	- Url: http://apinastg.telenav.com/entity/v4/search/json?user_id=bf9e9fce-e1ee-44ba-9509-7132c71b36ee&locale=en-US&location=37.39877104671623%2C-121.97739243507385&query=bob+and+betty&limit=20&entry_time=2022-03-30T08%3A22
+	- Url: http://apinastg.telenav.com/entity/v4/search/json?user_id=bf9e9fce-e1ee-44ba-9509-7132c71b36ee&locale=en-US&location=42.29395800000001%2C-83.717718&query=bob+and+betty&limit=20&entry_time=2022-03-30T09%3A11
 	- Request :
 		- Header
 			- [accept-encoding: gzip
@@ -90,4 +90,5 @@
 			  ```
 		- result: no find "bob and betty"
 - Analysis for "transformer-20220318115854749.log"
+	-
 	-
