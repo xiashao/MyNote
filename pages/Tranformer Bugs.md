@@ -18,4 +18,35 @@
 			  x-tn-userid: bf9e9fce-e1ee-44ba-9509-7132c71b36ee
 		- Body: Not available
 	- Response:
+		- Header
+			- connection: keep-alive
+			  content-encoding: gzip
+			  content-length: 291
+			  content-type: application/json;charset=UTF-8
+			  date: Wed, 30 Mar 2022 02:26:43 GMT
+			  response-status-code: 200
+			  vary: accept-encoding
+			  x-tn-process-time: 219
+			  x-tn-trace-id: ID-ec2s-autodenalinautilus-01-1647888187631-0-12284523
+		- Body:
+			- ```
+			  {
+			    "status": {
+			      "code": "12200",
+			      "message": "SUCCESS"
+			    },
+			    "response_time": 203,
+			    "reference_id": "25eb2915-6fa7-4d50-87ef-0fc4b798f04e",
+			    "metadata": {
+			      "query_resolution": {
+			        "search_position": {
+			          "latitude": 37.39877,
+			          "longitude": -121.97739
+			        }
+			      },
+			      "version": "Q2xvdWQ7MC4wLjEtZmVhdHVyZS1mb3JkLWV2LWRlbW8tMTYwO05BOzIxUTM7MjAyMi0wMi0xMiAxNzowNzoyMw"
+			    },
+			    "has_more": false
+			  }
+			  ```
 		-
