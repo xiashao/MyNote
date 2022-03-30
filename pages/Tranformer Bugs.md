@@ -90,5 +90,10 @@
 			  ```
 		- result: no find "bob and betty"
 - Analysis for "transformer-20220318115854749.log"
-	-
+	- Log
+		- 1774501: 03-18 14:55:49.688 12180 12180 I [Search]:SearchResultDomainAction: searchNearBy()
+		   1774502: 03-18 14:55:49.688 12180 12180 I [Search]:SearchResultDomainAction: [Search] start search: queryEntity = QueryEntity(queryType=KEYWORD, keyWord=bob and Betty , categoryIdList=[], categoryName=), evFilter = null
+		   1774863: 03-18 14:55:52.040 12180 12180 I [Search]:SearchResultDomainAction: [search] search response code: SUCCESS
+		   1774864: 03-18 14:55:52.043 12180 12180 I [Search]:SearchResultDomainAction: [Search] search result: [SearchEntity(id=P-12062503, displayName=Al & Bob's Painting, address=3160 Pittsview Dr, Ann Arbor MI 48108, USA, originAddress=SearchAddress(addressType=null, formattedAddress=3160 Pittsview Dr, Ann Arbor MI 48108, USA, houseNumber=3160, suite=null, street=SearchStreet(body=Pittsview Dr, type=null, formattedName=Pittsview Dr), crossStreet=SearchStreet(body=null, type=null, formattedName=null), locality=null, city=Ann Arbor, county=null, state=MI, country=USA ... ...
+	- result: can not find ""
 	-
