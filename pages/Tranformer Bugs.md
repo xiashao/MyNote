@@ -217,4 +217,4 @@
 					  	... ...	
 					  }
 					  ```
-			- Conclusion: One possibility is that
+			- Conclusion: We cant search a parking nearby, one possibility is that here data miss a parking in this location,
