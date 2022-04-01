@@ -161,5 +161,5 @@
 - Reference : https://spaces.telenav.com:8443/pages/viewpage.action?pageId=201501490
 - Refer to this wiki
 	- > For the above camera transitions, if a vehicle speeds up and exceeds the upper limit of the current speed limit range by at least 10mph for at least 5 seconds, then animate smoothly to the higher zoom level with an animation duration of 2 seconds. If the vehicle slows back down to the speed limit range of its current street for at least 5 seconds, then animate smoothly back to the default zoom level for the current street with an animation duration of 2 seconds. These buffers prevent the camera from transitioning immediately back and forth between ranges when driving at/near the thresholds.
-- Conclusion : auto zoom is triggered only when the speed changes between different speed limits. By analyzing the log, the speed is still not more than speed limit, therefore, it will not trigger auto zoom. Could you please check if there
+- Conclusion : auto zoom is triggered only when the speed changes between different speed limits. By analyzing the log, the speed is still not more than speed limit, therefore, it will not trigger auto zoom. Could you please check if there is any related requirement that
 -
