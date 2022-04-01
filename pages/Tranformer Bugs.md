@@ -217,4 +217,4 @@
 					  	... ...	
 					  }
 					  ```
-			- Conclusion: One r
+			- Conclusion: One possibility is that
