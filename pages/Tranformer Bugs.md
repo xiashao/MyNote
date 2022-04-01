@@ -1,3 +1,5 @@
+- ## Transformer bug log tip
+	- navigation.session: update nav status to show nav info
 - [[Mar 30th, 2022]]
 - 10:30
 - ## TRANS-3775
