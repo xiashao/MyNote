@@ -120,3 +120,46 @@
 - [[Apr 1st, 2022]]
 - 13:55
 - ##
+-
+	- 179: 03-26 11:21:50.464 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.799026, lon: 9.182561, speed: 5.86, head: 187, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	    364: 03-26 11:21:51.466 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798969, lon: 9.182550, speed: 6.80, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	    551: 03-26 11:21:52.472 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798934, lon: 9.182544, speed: 4.01, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	    741: 03-26 11:21:53.718 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798890, lon: 9.182537, speed: 3.97, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	    922: 03-26 11:21:54.730 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798857, lon: 9.182531, speed: 3.13, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   1104: 03-26 11:21:55.975 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798826, lon: 9.182526, speed: 0.90, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   1290: 03-26 11:21:57.230 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798818, lon: 9.182525, speed: 0.94, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   1468: 03-26 11:21:58.468 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798816, lon: 9.182524, speed: 0.31, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   1644: 03-26 11:21:59.472 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798816, lon: 9.182524, speed: 0.31, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   1822: 03-26 11:22:00.482 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798817, lon: 9.182525, speed: 0.23, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   2003: 03-26 11:22:01.720 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798817, lon: 9.182525, speed: 0.23, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   2181: 03-26 11:22:02.727 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798817, lon: 9.182525, speed: 0.23, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   2366: 03-26 11:22:03.972 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798817, lon: 9.182525, speed: 0.23, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   2541: 03-26 11:22:04.988 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798803, lon: 9.182522, speed: 0.62, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   2714: 03-26 11:22:05.986 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798783, lon: 9.182519, speed: 3.44, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   2902: 03-26 11:22:07.226 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798743, lon: 9.182512, speed: 4.10, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   3083: 03-26 11:22:08.234 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798697, lon: 9.182505, speed: 4.75, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   3416: 03-26 11:22:09.482 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798634, lon: 9.182495, speed: 5.60, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   3447: 03-26 11:22:10.486 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798565, lon: 9.182485, speed: 7.33, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   3632: 03-26 11:22:11.741 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798497, lon: 9.182475, speed: 6.49, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   3819: 03-26 11:22:12.990 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798332, lon: 9.182450, speed: 8.68, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   4014: 03-26 11:22:14.001 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798270, lon: 9.182440, speed: 8.00, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   4189: 03-26 11:22:15.249 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798185, lon: 9.182434, speed: 8.27, head: 182, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   4370: 03-26 11:22:16.487 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798113, lon: 9.182428, speed: 8.37, head: 184, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   4545: 03-26 11:22:17.512 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798005, lon: 9.182415, speed: 8.96, head: 184, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   4724: 03-26 11:22:18.748 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797918, lon: 9.182407, speed: 8.78, head: 182, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   4900: 03-26 11:22:20.029 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797763, lon: 9.182403, speed: 9.40, head: 176, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   5089: 03-26 11:22:21.244 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797680, lon: 9.182411, speed: 9.04, head: 176, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   5265: 03-26 11:22:22.493 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797605, lon: 9.182417, speed: 9.82, head: 176, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   5455: 03-26 11:22:23.744 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797525, lon: 9.182425, speed: 9.33, head: 175, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   5640: 03-26 11:22:24.755 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797436, lon: 9.182434, speed: 10.52, head: 176, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   5814: 03-26 11:22:25.999 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797256, lon: 9.182440, speed: 9.96, head: 180, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   5986: 03-26 11:22:26.999 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797175, lon: 9.182438, speed: 9.07, head: 182, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   6158: 03-26 11:22:28.007 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.797089, lon: 9.182432, speed: 9.66, head: 182, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   6334: 03-26 11:22:29.247 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796989, lon: 9.182423, speed: 10.83, head: 184, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   6513: 03-26 11:22:30.253 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796905, lon: 9.182414, speed: 9.75, head: 184, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   6698: 03-26 11:22:31.496 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796831, lon: 9.182404, speed: 9.56, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   6890: 03-26 11:22:32.752 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796740, lon: 9.182389, speed: 8.89, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   7096: 03-26 11:22:34.010 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796585, lon: 9.182363, speed: 10.68, head: 187, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   7323: 03-26 11:22:35.009 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796488, lon: 9.182349, speed: 10.50, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   7495: 03-26 11:22:36.254 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796429, lon: 9.182341, speed: 7.93, head: 185, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+	   7665: 03-26 11:22:37.257 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796429, lon: 9.182341, speed: 7.93, head: 185, tz: { cc: DEU, name:
