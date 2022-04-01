@@ -159,5 +159,7 @@
 	   6513: 03-26 11:22:30.253 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796905, lon: 9.182414, speed: 9.75, head: 184, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
 	   6698: 03-26 11:22:31.496 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.796831, lon: 9.182404, speed: 9.56, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
 - Reference : https://spaces.telenav.com:8443/pages/viewpage.action?pageId=201501490
-- Conclusion: refer to this wiki,
-- auto zoom is triggered only when the speed changes between different speed limits. By analysing log, the speed is not more than speed limit, therefore, the speed doesn’t changed in the different speed limits.
+- Refer to this wiki
+	- > For the above camera transitions, if a vehicle speeds up and exceeds the upper limit of the current speed limit range by at least 10mph for at least 5 seconds, then animate smoothly to the higher zoom level with an animation duration of 2 seconds. If the vehicle slows back down to the speed limit range of its current street for at least 5 seconds, then animate smoothly back to the default zoom level for the current street with an animation duration of 2 seconds. These buffers prevent the camera from transitioning immediately back and forth between ranges when driving at/near the thresholds.
+- Conclusion : auto zoom is triggered only when the speed changes between different speed limits. By analyzing log, the speed is still not more than speed limit, therefore, it will not trigger auto zoom.
+-
