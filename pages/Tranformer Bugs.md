@@ -119,10 +119,9 @@
 -
 - [[Apr 1st, 2022]]
 - 13:55
-- ##
--
-	-
-	- 179: 03-26 11:21:50.464 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.799026, lon: 9.182561, speed: 5.86, head: 187, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
+- ## TRANS-3829
+- Analysis for log:
+	- > 179: 03-26 11:21:50.464 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.799026, lon: 9.182561, speed: 5.86, head: 187, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
 	    364: 03-26 11:21:51.466 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798969, lon: 9.182550, speed: 6.80, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
 	    551: 03-26 11:21:52.472 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798934, lon: 9.182544, speed: 4.01, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
 	    741: 03-26 11:21:53.718 15144  3697 I navigation.session: { vehicle: { status: on-route, lat: 48.798890, lon: 9.182537, speed: 3.97, head: 186, tz: { cc: DEU, name: UTC+01:00, UTC: 3600, DST: 0 }, cc: DEU } }
