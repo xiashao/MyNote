@@ -100,4 +100,7 @@
 -
 - [[Apr 1st, 2022]]
 - 09:56
--
+- ## TRANS-3821
+- Background: Visual guidance shows turn on "Unnamed Road" when entering a parking lot
+- Analysis for local build:
+	- Rep
