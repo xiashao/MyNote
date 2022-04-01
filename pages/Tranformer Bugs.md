@@ -107,6 +107,12 @@
 - Background: Visual guidance shows turn on "Unnamed Road" when entering a parking lot
 - Analysis for local build:
 	- Reproducible : Yes
+	- version:
+		- appVersion      :     0.500.1002
+		                          libVersion      :     0.500.1002
+		                          tasdkVersion    :     1.4.18.EV-Demo.2
+		                          searchVersion   :     null
+		                          ttsVersion      :     0.0.14
 	- NavigationEvent(legIndex=0, stepIndex=0, deviated=false, currentManeuver=ManeuverInfo(legIndex=0, stepIndex=0, turnAction=3, turnAssistAction=0, leftSideDriving=false, latitude=42.432570000000005, longitude=-83.64931, lengthMeters=1466.0, laneInfo=[LaneInfo(pattern=0, preferredPattern=0, type=0), LaneInfo(pattern=3, preferredPattern=3, type=0)], streetName=, signpostName=null, exitLabel=null, roundaboutInfo=null, stepInfo=com.telenav.sdk.drivesession.model.StepInfo@7e495e4), nextManeuver=ManeuverInfo(legIndex=0, stepIndex=1, turnAction=3, turnAssistAction=0, leftSideDriving=false, latitude=42.432480000000005, longitude=-83.65034, lengthMeters=91.0, laneInfo=null, streetName=, signpostName=null, exitLabel=null, roundaboutInfo=null, stepInfo=com.telenav.sdk.drivesession.model.StepInfo@4577a4d), distanceToTurn=1460.526123046875, traveledDistance=5.603203296661377, traveledTime=0, travelEstToStop=TravelEstimation(distanceToStop=1647.0, timeToStop=155, trafficDelay=0, arrivalToStop=2022-04-01 07:58:59), travelEstToDestination=TravelEstimation(distanceToStop=1647.0, timeToStop=155, trafficDelay=0, arrivalToStop=2022-04-01 07:58:59))
 	- **Conclusion : the street name and signpostName provided by TASDK are null, this issue needs TASDK team to support.**
 	-
