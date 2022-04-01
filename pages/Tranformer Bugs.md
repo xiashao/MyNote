@@ -180,4 +180,17 @@
 			  x-tn-guid: ba5d8654d36db812
 			  x-tn-sdkversion: 0.0.1-feature-ONBOARDSEA-50845-feedback-poc
 			  x-tn-userid: bf9e9fce-e1ee-44ba-9509-7132c71b36ee
-		-
+		- Url: http://apinastg.telenav.com/entity/v4/search/json?user_id=bf9e9fce-e1ee-44ba-9509-7132c71b36ee&locale=en-US&location=42.43165%2C-83.76949&f.cat.list=600&limit=3&entry_time=2022-04-01T14%3A04
+		- Response
+			- Head
+				- connection: keep-alive
+				  content-encoding: gzip
+				  content-length: 2213
+				  content-type: application/json;charset=UTF-8
+				  date: Fri, 01 Apr 2022 08:08:15 GMT
+				  response-status-code: 200
+				  vary: accept-encoding
+				  x-tn-process-time: 575
+				  x-tn-trace-id: ID-ec2s-autodenalinautilus-01-1647888187631-0-14695485
+				- Body
+					-
