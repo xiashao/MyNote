@@ -168,4 +168,16 @@
 - ## TRANS-3780
 - Analysis :
 	- Reproducible : yes
-	- When arrived,
+	- When arrived, the system will search parking nearby.
+	- Analysis for request and response:
+		- Request Head:
+			- accept-encoding: gzip
+			  connection: Keep-Alive
+			  host: apinastg.telenav.com
+			  user-agent: okhttp/4.8.0
+			  x-tn-api_key: ed41a88d-f29d-4a50-aee2-611b22dab835
+			  x-tn-api_signature: ed41a88d-f29d-4a50-aee2-611b22dab835:1648832661:2a5e9f113294594bba348bf37cbd668a
+			  x-tn-guid: ba5d8654d36db812
+			  x-tn-sdkversion: 0.0.1-feature-ONBOARDSEA-50845-feedback-poc
+			  x-tn-userid: bf9e9fce-e1ee-44ba-9509-7132c71b36ee
+		-
