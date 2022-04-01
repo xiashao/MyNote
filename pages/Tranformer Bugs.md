@@ -194,4 +194,27 @@
 				  x-tn-trace-id: ID-ec2s-autodenalinautilus-01-1647888187631-0-14695485
 				- Body
 					- ```
+					  {
+					    "status": {
+					      "code": "12200",
+					      "message": "SUCCESS"
+					    },
+					    "response_time": 563,
+					    "reference_id": "a5267213-2c0a-445b-aa0c-736720f0d4d2",
+					    "metadata": {
+					      "counts": [
+					        {
+					          "type": "place",
+					          "count": 3
+					        }
+					      ],
+					      "query_resolution": {
+					        "query_tags": [
+					          {
+					            "filters": [
+					              {
+					                "type": "category",
+					  	... ...	
+					  }
 					  ```
+			- Conclusion: One r
