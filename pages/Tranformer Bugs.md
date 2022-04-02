@@ -273,3 +273,4 @@
 		   1516078: 03-18 14:32:54.196 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
 		   1516241: 03-18 14:32:55.200 12180 21238 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
 		- The attribute "hasTightTurn" always is false at 2:32 pm.
+		- Refer to codes, only when hasTightTurn and approached
