@@ -274,4 +274,4 @@
 		   1516241: 03-18 14:32:55.200 12180 21238 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
 		- The attribute "hasTightTurn" always is false at 2:32 pm.
 		- Refer to codes, only when hasTightTurn and approached are true, navigation panel will show the tight turn info.
-		- Conclusion: From the code logic, the display of next manuver needs to meet some conditions instead of being displayed at any time, so I don't know if it should show that in this case
+		- Conclusion: From the code logic, the display of next manuver needs to meet some conditions instead of being displayed at any time, so I don't know if it should show the next manuver in this case showed in the video
