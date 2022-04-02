@@ -224,4 +224,52 @@
 - ## TRANS-3772
 	- Background: System not showing next manervour
 	- Analysis for Log
-		-
+		- > 1503538: 03-18 14:32:01.184 12180 21240 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1503672: 03-18 14:32:02.424 12180 20718 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1503943: 03-18 14:32:03.694 12180 21075 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1504126: 03-18 14:32:04.931 12180 21240 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1504282: 03-18 14:32:05.930 12180 17882 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1504568: 03-18 14:32:06.940 12180 21237 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1504804: 03-18 14:32:07.936 12180 20718 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1505082: 03-18 14:32:09.187 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1505638: 03-18 14:32:11.428 12180 20646 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1505814: 03-18 14:32:12.179 12180 21240 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1506809: 03-18 14:32:13.426 12180 20718 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1507523: 03-18 14:32:14.683 12180 21076 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1507803: 03-18 14:32:15.925 12180 20487 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1508021: 03-18 14:32:16.927 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1508289: 03-18 14:32:18.172 12180 21176 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1508546: 03-18 14:32:19.423 12180 21181 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1508780: 03-18 14:32:20.671 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1509017: 03-18 14:32:21.677 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1509230: 03-18 14:32:22.926 12180 20719 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1509557: 03-18 14:32:24.174 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1509775: 03-18 14:32:25.175 12180 20487 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1510091: 03-18 14:32:26.181 12180 20487 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1510309: 03-18 14:32:27.196 12180 21177 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1510530: 03-18 14:32:28.432 12180 20487 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1510813: 03-18 14:32:29.682 12180 21076 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1511012: 03-18 14:32:30.935 12180 21076 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1511283: 03-18 14:32:32.187 12180 21181 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1511524: 03-18 14:32:33.431 12180 21238 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1511743: 03-18 14:32:34.433 12180 21237 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1512062: 03-18 14:32:35.680 12180 21278 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1512179: 03-18 14:32:36.181 12180 21178 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1512531: 03-18 14:32:37.187 12180 21243 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1512778: 03-18 14:32:38.191 12180 21076 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1513071: 03-18 14:32:39.436 12180 21177 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1513312: 03-18 14:32:40.689 12180 17882 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1513544: 03-18 14:32:41.931 12180 20718 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1513755: 03-18 14:32:42.938 12180 20719 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1513961: 03-18 14:32:43.937 12180 21232 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1514225: 03-18 14:32:45.193 12180 20718 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1514441: 03-18 14:32:46.196 12180 21278 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1514685: 03-18 14:32:47.448 12180 21239 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1514923: 03-18 14:32:48.690 12180 21410 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1515141: 03-18 14:32:49.694 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1515365: 03-18 14:32:50.695 12180 21177 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1515615: 03-18 14:32:51.950 12180 21243 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1515820: 03-18 14:32:52.948 12180 20718 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1516078: 03-18 14:32:54.196 12180 21179 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		   1516241: 03-18 14:32:55.200 12180 21238 D [MovingMap]:MovingMapDomainAction: updateTightTurnIcon >> hasTightTurn? false, approached ? true
+		- The attribute "hasTightTurn" always
