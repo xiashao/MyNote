@@ -287,4 +287,6 @@
 	- There are two searchEntity with same name "Hill Auditorium"
 	-
 - Analysis for local build
-	-
+	- URL: http://apinastg.telenav.com/entity/v4/suggestion/json?user_id=bf9e9fce-e1ee-44ba-9509-7132c71b36ee&locale=en-US&query=hill+audi&location=42.26795087939869%2C-83.74715119600296&include.entity=true
+	- Request
+		-
