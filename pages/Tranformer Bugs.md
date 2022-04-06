@@ -327,5 +327,12 @@
 			        "label": "Hill Auditorium, 825 N University Ave, Ann Arbor (Burns Park) MI 48109, USA",
 			        }
 			  ...
-			  
+			   {
+			        "id": "P-YP-BfRPxsz2EUxhmLnXXg30jQ",
+			        "type": "entity",
+			        "label": "Hill Auditorium, 825 North University, Ann Arbor MI 48109, USA",
+			        "query": "ENTITY_ID=P-YP-BfRPxsz2EUxhmLnXXg30jQ;sid=a4cc4c0e-9ad4-4290-9000-4594a9485a6e;position=1;originalQuery=hill audi;source=autosuggest;",
+			  ...
+			  }
 			  ```
+- Conclusion: There are two search entities with the same name
