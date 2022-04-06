@@ -309,4 +309,23 @@
 		  x-tn-process-time: 104
 		  x-tn-trace-id: ID-ec2s-autodenalinautilus-01-1647888187631-0-18151864
 		- Body
-			-
+			- ```
+			  {
+			    "status": {
+			      "code": "12200",
+			      "message": "SUCCESS"
+			    },
+			    "reference_id": "fcd1a837-0f5c-443f-9784-185764617e7a",
+			    "response_time": 96,
+			    "metadata": {
+			      "version": "Q2xvdWQ7MC4wLjEtZmVhdHVyZS1mb3JkLWV2LWRlbW8tMTYwO05BOzIxUTM7MjAyMi0wMi0xMiAxNzowNzoyMw"
+			    },
+			    "results": [
+			      {
+			        "id": "P-2264101",
+			        "type": "entity",
+			        "label": "Hill Auditorium, 825 N University Ave, Ann Arbor (Burns Park) MI 48109, USA",
+			        }
+			  ...
+			  
+			  ```
