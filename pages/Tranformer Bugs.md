@@ -275,3 +275,9 @@
 		- The attribute "hasTightTurn" always is false at 2:32 pm.
 		- Refer to codes, only when hasTightTurn and approached are true, navigation panel will show the tight turn info.
 		- Conclusion: From the code logic, the display of the next maneuver needs to meet some conditions instead of being displayed at any time. So, could you please share your opinion about it?
+-
+-
+- [[Apr 6th, 2022]]
+- 11:26
+- ## TRANS-3769
+-
