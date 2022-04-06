@@ -289,4 +289,24 @@
 - Analysis for local build
 	- URL: http://apinastg.telenav.com/entity/v4/suggestion/json?user_id=bf9e9fce-e1ee-44ba-9509-7132c71b36ee&locale=en-US&query=hill+audi&location=42.26795087939869%2C-83.74715119600296&include.entity=true
 	- Request
-		-
+		- accept-encoding: gzip
+		  connection: Keep-Alive
+		  host: apinastg.telenav.com
+		  user-agent: okhttp/4.8.0
+		  x-tn-api_key: ed41a88d-f29d-4a50-aee2-611b22dab835
+		  x-tn-api_signature: ed41a88d-f29d-4a50-aee2-611b22dab835:1649254055:d061df8f10bb2a28d6c28ba9cb722b0c
+		  x-tn-guid: ba5d8654d36db812
+		  x-tn-sdkversion: 0.0.1-feature-ONBOARDSEA-50845-feedback-poc
+		  x-tn-userid: bf9e9fce-e1ee-44ba-9509-7132c71b36ee
+	- Response
+		- connection: keep-alive
+		  content-encoding: gzip
+		  content-length: 1385
+		  content-type: application/json;charset=UTF-8
+		  date: Wed, 06 Apr 2022 05:12:57 GMT
+		  response-status-code: 200
+		  vary: accept-encoding
+		  x-tn-process-time: 104
+		  x-tn-trace-id: ID-ec2s-autodenalinautilus-01-1647888187631-0-18151864
+		- Body
+			-
