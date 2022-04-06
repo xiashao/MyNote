@@ -280,4 +280,7 @@
 - [[Apr 6th, 2022]]
 - 11:26
 - ## TRANS-3769
--
+- Background: Search- two entries for Hill Auditorium in search results
+- Reproducible: Yes
+- Analysis for Log
+	-
