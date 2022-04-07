@@ -346,5 +346,27 @@
 	-
 - Analysis for local build
 	- url: http://apinastg.telenav.com/entity/v4/detail/json?user_id=bf9e9fce-e1ee-44ba-9509-7132c71b36ee&locale=en-US&entity_id=P-YP-3Av4n2YcOvXi4jkVSuWWaQ&address_line=2&detail_level=full&entry_time=2022-04-07T07%3A59
+	- > {
+	    "status": {
+	      "code": "12200",
+	      "message": "SUCCESS"
+	    },
+	    "results": [
+	      {
+	        "id": "P-YP-3Av4n2YcOvXi4jkVSuWWaQ",
+	        "type": "place",
+	        "place": {
+	          "name": "China Garden",       
+	              "geo_coordinates": {
+	                "latitude": 42.43047,
+	                "longitude": -83.76826
+	              },
+	              "nav_coordinates": [
+	                {
+	                  "latitude": 42.43047,
+	                  "longitude": -83.76826
+	                }
+	              ],
 	-
 - In google map, it shows in the right position, and the location is 42.43175570821846, -83.76944991162013 https://www.google.com/maps/place/China+Garden/@42.4312824,-83.7685383,17.77z/data=!4m9!1m2!2m1!1schina+garden!3m5!1s0x88234d85bde544ed:0x33e8dd3642c6cdc0!8m2!3d42.4316418!4d-83.7695004!15sCgxjaGluYSBnYXJkZW5aDiIMY2hpbmEgZ2FyZGVukgESY2hpbmVzZV9yZXN0YXVyYW50
+-
