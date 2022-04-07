@@ -341,5 +341,6 @@
 - 10:25
 - ## TRANS-3779
 - Analysis for Log
+	-
 	- > 2139472: 03-18 15:27:09.553 12180 12180 D [Nav]:GlMapViewModel: #2 getPoiSearchResultWithinBoundingBox -> RESP [SearchEntity(id=P-YP-3Av4n2YcOvXi4jkVSuWWaQ, **displayName=China Garden**, address=11930 Whitmore Lake Rd, Whitmore Lake MI 48189, USA, originAddress=SearchAddress(addressType=null, formattedAddress=11930 Whitmore Lake Rd, Whitmore Lake MI 48189, USA, houseNumber=11930, suite=null, street=SearchStreet(body=Whitmore Lake Rd, type=null, formattedName=Whitmore Lake Rd), crossStreet=SearchStreet(body=null, type=null, formattedName=null), locality=null, city=Whitmore Lake, county=null, state=MI, country=USA, postalCode=48189, neighbourhood=null, addressLines=[11930 Whitmore Lake Rd, Whitmore Lake MI 48189]), label=China Garden, distance=128.0, categoryName=Chinese, categoryId=240, **geoCoordinates=****LatLon(lat=42.43047, lon=-83.76826), navCoordinates=LatLon(lat=42.43047, lon=-83.76826)**, rating=2.5, ratingCount=10... ...
 -
