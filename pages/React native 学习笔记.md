@@ -1,2 +1,3 @@
 - ## New project
-	- expo init
+	- expo init xxx
+	-
