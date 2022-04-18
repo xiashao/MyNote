@@ -1,4 +1,4 @@
 - ## New project
 	- expo init xxx
 	- code .
-	-
+	- npm start
