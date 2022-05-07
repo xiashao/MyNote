@@ -11,4 +11,7 @@
 	- ### Cluster
 	- ![cluster_screen_agv.png](../assets/cluster_screen_agv_1651892323015_0.png)
 - ### ADB Command
--
+- ```
+  - adb shell screencap -d 0 -p /sdcard/main_screen_igv.png
+  - adb shell screencap -d 1 -p /sdcard/cluster_screen_igv.png
+  ```
